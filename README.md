@@ -1,6 +1,6 @@
 # Exam Study Path
 
-The following is my study path for the AWS Certified Developer Associate Exam (DVA-C01):
+The following is my study path for the **AWS Certified Developer Associate Exam (DVA-C01)**:
 
 - Learning Phase:
     - [Linux Academy](https://linuxacademy.com/) - Unlike the study path for the AWS Certified Solutions Archtitect Associate Exam, I chose the Linux Academy course over A Cloud Guru (better content). I completed the AWS Certified Developer Associate course and associated labs. Again, they were very useful primer for what to expect on the exam but taking the course alone isn't enough to pass the exam.
